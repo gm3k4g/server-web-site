@@ -1,0 +1,13 @@
+* {
+	background-color: black;
+	font-family: 'Quicksand', arial;
+	min-height: 86vh;
+}
+
+body {
+    display:flex;
+	align-items: center;
+	justify-content: center;
+	color: #FFF;
+	font-size: 4em;
+}
